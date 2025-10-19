@@ -4,7 +4,7 @@ import requests
 from pathlib import Path
 
 
-##Change to your GitHub token 
+#Change to your GitHub token when download, will expire once uploaded to Github
 GITHUB_TOKEN = "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"
 GITHUB_ORG = "Scytale-exercise"
 REPO = "Scytale-exercise"
@@ -79,3 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
