@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "Scytale-exercise",
+    "number": 4,
+    "title": "avi pull request",
+    "user": "aviyashar",
+    "merged_at": "2023-11-21T12:29:07Z",
+    "merged_by": null,
+    "url": "https://github.com/Scytale-exercise/scytale-repo3/pull/4"
+  },
+  {
+    "repo": "Scytale-exercise",
+    "number": 3,
+    "title": "Feature/eva",
+    "user": "aviyashar",
+    "merged_at": "2023-11-21T12:27:11Z",
+    "merged_by": null,
+    "url": "https://github.com/Scytale-exercise/scytale-repo3/pull/3"
+  },
+  {
+    "repo": "Scytale-exercise",
+    "number": 2,
+    "title": "Update README.md",
+    "user": "aviyashar",
+    "merged_at": "2023-11-21T12:25:14Z",
+    "merged_by": null,
+    "url": "https://github.com/Scytale-exercise/scytale-repo3/pull/2"
+  },
+  {
+    "repo": "Scytale-exercise",
+    "number": 1,
+    "title": "Chore/ops 197/last fixes before publishing",
+    "user": "aviyashar",
+    "merged_at": "2023-11-21T12:23:48Z",
+    "merged_by": null,
+    "url": "https://github.com/Scytale-exercise/scytale-repo3/pull/1"
+  }
+]
