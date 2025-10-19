@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 from pathlib import Path
 
-#Details for GitHub access:User must change these to their own details
+#Details for GitHub access:User must change these to their own details: token will expire when uploaded to Github
 GITHUB_TOKEN = "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"
 GITHUB_ORG = "Scytale-exercise"
 REPO = "Scytale-exercise"
@@ -79,3 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
